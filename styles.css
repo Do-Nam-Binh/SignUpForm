@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    
+}
+
+.left{
+    background-image: url('justin-wolff-jNfN0NCUHX4-unsplash.jpg');
+    width: 30%;
+    height: 1000px;
+    background-size: cover;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
